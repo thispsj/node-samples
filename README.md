@@ -1,2 +1,2 @@
-# node-msft
-Some random NodeJS samples that use Microsoft Graph.
+# node-samples
+Some random NodeJS samples that use Microsoft Graph & Discord API.
