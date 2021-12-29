@@ -14,9 +14,9 @@ name: "CodeQL"
 on:
   push:
     branches: [ main ]
-    paths-ignore:
-      - '.github/**'
-      - '**.MD'
+    paths:
+      - '**.js'
+      - '**.ts'
 
 jobs:
   analyze:
