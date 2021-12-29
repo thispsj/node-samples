@@ -1,0 +1,29 @@
+{
+  "name": "msft-graph-sample",
+  "version": "1.0.1",
+  "description": "A sample Microsoft Graph Node app that consumes data from Outlook & Identity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thispsj/node-msft.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "\"Microsoft",
+    "Graph\""
+  ],
+  "author": "thispsj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thispsj/node-msft/issues"
+  },
+  "homepage": "https://github.com/thispsj/node-msft#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2"
+  }
+}

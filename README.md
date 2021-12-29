@@ -1,2 +1,2 @@
 # node-msft
-Some random NodeJS samples that use Microsoft Graph
+Some random NodeJS samples that use Microsoft Graph.
