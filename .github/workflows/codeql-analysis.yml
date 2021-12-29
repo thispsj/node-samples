@@ -15,8 +15,8 @@ on:
   push:
     branches: [ main ]
     paths-ignore:
-      - '/.github/*'
-      - '/*/*.MD'
+      - '/.github/**'
+      - '**.MD'
 
 jobs:
   analyze:
