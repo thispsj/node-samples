@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/thispsj/node-msft#readme",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.0.0",
     "cookie-parser": "^1.4.6",
     "express": "^4.18.1"
   }
